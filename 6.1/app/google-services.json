@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "607541503484",
+    "firebase_url": "https://soham-news-1ab1d.firebaseio.com",
+    "project_id": "soham-news-1ab1d",
+    "storage_bucket": "soham-news-1ab1d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:607541503484:android:574458640c33b66a",
+        "android_client_info": {
+          "package_name": "cc.soham.news"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "607541503484-7qvtukcb62dv07uiiippikdk6jqhnu9j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "cc.soham.news",
+            "certificate_hash": "3098FC6DF58FC5F2FE5AED9EC95608420608F9E4"
+          }
+        },
+        {
+          "client_id": "607541503484-e5m69ihsucvf564ln4u97j3143bk9c9p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8Yvmudt84WO4oKpFi8nZzp6i2W-BSaa8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "607541503484-e5m69ihsucvf564ln4u97j3143bk9c9p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
